@@ -9,11 +9,11 @@ A full-stack modern furniture e-commerce application featuring AI-powered chat a
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248)
 
 ## 📷 Snippets
-
-![alt text](image.png)
 ![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](image.png)
 ![alt text](image-3.png)
+![alt text](image-2.png)
+
 
 ## 🚀 Features
 
