@@ -8,6 +8,13 @@ A full-stack modern furniture e-commerce application featuring AI-powered chat a
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4.1.12-38B2AC)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248)
 
+## 📷 Snippets
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+
 ## 🚀 Features
 
 ### Frontend (Client)
@@ -370,4 +377,5 @@ If you encounter any issues or have questions:
 **Happy coding! 🎉**
 
 Built with ❤️ using modern web technologies.
+
 # Ecommerce-With-AI-Assistant
